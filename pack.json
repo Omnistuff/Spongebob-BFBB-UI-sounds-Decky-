@@ -13,15 +13,14 @@
     "steam_chatroom_notification.m4a",
     "ui_steam_message_old_smooth.m4a",
     "ui_steam_smoother_friend_join.m4a",
-    "ui_steam_smoother_friend_online.m4a"
-  ]
+    "ui_steam_smoother_friend_online.m4a" ],
   "mappings": {
     "deck_ui_achievement_toast.wav": ["Trophy.wav"],
     "deck_ui_misc_10.wav": ["Move1.wav", "Move2.wav"],
     "deck_ui_navigation.wav": ["Move1.wav", "Move2.wav"],
-    "deck_ui_slider_down": ["Move1.wav", "Move2.wav"],
+    "deck_ui_slider_down.wav": ["Move1.wav", "Move2.wav"],
     "deck_ui_slider_up.wav": ["Move1.wav", "Move2.wav"],
-    "deck_ui_tile_scroll": ["Move1.wav", "Move2.wav"],
+    "deck_ui_tile_scroll.wav": ["Move1.wav", "Move2.wav"],
     "deck_ui_volume.wav": ["Move1.wav", "Move2.wav"]
 }
 

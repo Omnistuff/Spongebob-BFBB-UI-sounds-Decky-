@@ -17,11 +17,11 @@
   ]
   "mappings": {
     "deck_ui_achievement_toast.wav": ["Trophy.wav"],
-    "deck_ui_misc_10.wav": ["Move1.wav", "Move2.wav"]
-    "deck_ui_navigation.wav": ["Move1.wav", "Move2.wav"]
-    "deck_ui_slider_down": ["Move1.wav", "Move2.wav"]
-    "deck_ui_slider_up.wav": ["Move1.wav", "Move2.wav"]
-    "deck_ui_tile_scroll": ["Move1.wav", "Move2.wav"]
+    "deck_ui_misc_10.wav": ["Move1.wav", "Move2.wav"],
+    "deck_ui_navigation.wav": ["Move1.wav", "Move2.wav"],
+    "deck_ui_slider_down": ["Move1.wav", "Move2.wav"],
+    "deck_ui_slider_up.wav": ["Move1.wav", "Move2.wav"],
+    "deck_ui_tile_scroll": ["Move1.wav", "Move2.wav"],
     "deck_ui_volume.wav": ["Move1.wav", "Move2.wav"]
 }
 
